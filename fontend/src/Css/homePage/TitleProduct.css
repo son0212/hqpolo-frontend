@@ -1,0 +1,25 @@
+.TitleProduct {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 15px;
+}
+.TitleProduct span{
+    width: 30px;
+    height: 2px;
+    background-color: #d9d7d2;
+    display: block;
+}
+.TitleProduct b{
+    text-transform: uppercase;
+    font-family: "Quicksand", sans-serif;
+    font-size: 1.7em;
+    font-weight: 700;
+}
+.nextLink{
+	text-decoration: none;
+    color: #446084 !important;
+    margin-left: 20px;
+    font-size: 25px;
+}

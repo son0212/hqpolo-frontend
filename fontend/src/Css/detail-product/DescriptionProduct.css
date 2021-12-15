@@ -1,0 +1,15 @@
+.DescriptionProduct{
+	margin-top: 100px;
+}
+.main-title-infor{
+	display: flex;
+}
+.main-title-infor a{
+	text-decoration: none;
+	color: black;
+	padding: 20px ;
+	border-radius: 5%;
+	border: 1px #ddd solid;
+	border-top: 3px #ddd solid;
+	background-color: rgba(0,0,0,0.04);
+}

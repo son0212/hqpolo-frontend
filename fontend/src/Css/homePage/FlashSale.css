@@ -1,0 +1,59 @@
+.FlashSale {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 15px !important;
+    margin-bottom: 15px !important;
+    margin-top: 50px !important;
+}
+.FlashSale span{
+    width: 500px;
+    height: 2px;
+    background-color: #d9d7d2;
+    display: block;
+}
+.FlashSale b{
+    text-transform: uppercase;
+    font-family: "Quicksand", sans-serif;
+    font-size: 1.7em;
+    font-weight: 700;
+    color: #f60707;
+    border: 1px #d9d7d7 solid;
+    border-radius: 5%;
+}
+.FlashSale b img {
+    width: 25px;
+    filter: opacity(0.5);
+}   
+.nextLink{
+	text-decoration: none;
+    color: #446084 !important;
+    margin-left: 20px;
+    font-size: 25px;
+}
+.time{
+    display: table-cell;
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+    line-height: 80%;
+    padding: .4em .1em .1em;
+    margin: 0 .05em .2em;
+    border-radius: 5px;
+    background-color: rgba(0,0,0,.85);
+}
+.CountDown{
+    width: 100%;
+    position: relative;
+    border-spacing: 5px;
+    margin: .3em 0 .2em;
+    font-size: 300%;
+    display: table;
+    table-layout: fixed;
+    font-size: 296%;
+}
+.time span {
+    font-size: 30px;
+    display: block;
+    text-align: -webkit-match-parent;
+}

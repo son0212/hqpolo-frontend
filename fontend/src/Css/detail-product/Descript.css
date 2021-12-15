@@ -1,0 +1,15 @@
+.descript .container .row{
+	text-align: left;
+	border:gray solid 0.5px;
+	padding-top:10px;
+}
+.div-demo-product{
+	text-align: center;
+}
+.img-demo{
+	margin-bottom: 20px;
+	width: 85% !important;
+}
+.iframe-demo-product{
+	width: 85% !important;
+}

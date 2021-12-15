@@ -1,0 +1,68 @@
+.slick-prev{
+	border: 1px solid red !important;
+	z-index: 100;
+    left: 10px !important;
+    background-color:black !important;
+}
+.slick-next{
+	right: 10px !important;
+    border: 1px solid green !important;
+    background-color:black !important;
+}
+.img-slick02{
+    border: 1px solid gray;
+    border-radius: 3%;
+    background-repeat: round;
+    width: 390px !important;
+    height: 360px !important;
+    object-fit: cover;
+    position: relative;
+}
+.img-1-slick02{
+	background-image: url("../../images/collect-and-blog/img01.jpg");
+}
+.img-2-slick02{
+	background-image: url("../../images/collect-and-blog/img02.jpg");
+}
+.img-3-slick02{
+	background-image: url("../../images/collect-and-blog/img03.jpg");
+}
+.img-4-slick02{
+	background-image: url("../../images/collect-and-blog/img04.jpg");
+}
+.dateUp {
+   position: absolute;
+    background-color: white;
+    font-weight: bold;
+    top: 15%;
+    padding-right: 10px;
+    padding-left: 3px;
+    border: 3px solid #284d7d;
+    border-left: none;
+}
+.dateUp span {
+    display: block;
+    font-size: 20px;
+    font-family: revert;
+}   
+.titlePost {
+    background-color: white;
+    position: absolute;
+    top: 40%;
+    line-height:30px;
+}
+.titleQuestion {
+    font-size: 17px;
+    font-weight: bolder;
+}
+.answerQuestion {
+    font-size: 15px;
+    font-weight: lighter;
+}
+.titlePost button{
+    border-radius: 10%;
+    border-width: thin;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    opacity: 0.5;
+}

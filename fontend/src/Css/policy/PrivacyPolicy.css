@@ -1,0 +1,17 @@
+.col-inner{
+	position: relative;
+    margin-left: auto;
+    margin-right: 0;
+    width: 100%;
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    -webkit-box-flex: 1;
+    flex: 1 0 auto;
+}
+.tagP{
+	text-align: justify;
+}
+.tagP span{
+	font-size: 105%;
+}
