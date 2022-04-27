@@ -1,0 +1,24 @@
+.imgOne{
+	background: url(http://localhost:3000/images/one.png);
+}
+.imgTwo{
+	background: url(http://localhost:3000/images/two.png);
+}
+.imgThree{
+	background: url(http://localhost:3000/images/three.png);
+}
+.imgFour{
+	background: url(http://localhost:3000/images/four.png);
+}
+.imgFive{
+	background: url(http://localhost:3000/images/five.png);
+}
+.imgSix{
+	background: url(http://localhost:3000/images/six.png);
+}
+.img-slideShow{
+	height:600px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-position: center;
+}

@@ -1,0 +1,12 @@
+.div-custom-registration{
+    display: flex;
+}
+.div-other{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+}
+.div-custom-registration .input{
+    padding:9px !important;
+    width:60% !important;
+}

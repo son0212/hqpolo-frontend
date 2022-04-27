@@ -1,0 +1,117 @@
+.sign-up-to-receive-information {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(550px, 580px));
+    gap: 50px;
+    height: 150px;
+    justify-content: center;
+}
+.sign-up-to-receive-information .div-left{
+	text-align: left;
+}
+.title-subscribe-to-receive-information{
+	color: white;
+	text-align: left;
+	margin-top: -50px;
+}
+.subscribe-to-receive-information{
+	color: white;
+	line-height: 32px;
+    font-size: 17px;
+}
+.div-right input[type="text"] {
+    width: 460px;
+    height: 40px;
+    border-radius: 1%;
+    border-width: 0px;
+}
+.div-right input[type="button"] {
+    height: 42px;
+    width: 115px;
+    color: white;
+    border-radius: 5%;
+    border-width: 0px;
+    background-color: #00a7e6;
+}
+.div-right label{
+	color:white;
+}
+.div-right .divOne {
+    margin-top: -50px;
+}
+.div-right .divTwo{
+	text-align: left;
+	margin-top: 50px;
+}
+.way{
+    height: 2px;
+    background-color: #888bb2;
+    max-width: 1300px;
+    margin: auto;
+}
+.founding{
+	text-align: left;
+	color: white;
+}
+.founding img {
+    width: 186px;
+    margin-bottom: 25px;
+}
+.founding p {
+    line-height: 1.6em;
+    font-size: 15px;
+}
+.fanPage{
+    text-align: left;
+    margin-left: 30px;
+}
+.moreInfor {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1200px;
+}
+.contactWithHQPOLO h3{
+	margin-top: 30px !important;
+	margin-bottom: 10px !important;
+}
+.contactWithHQPOLO ul{
+	line-height: 30px;
+}
+.contactWithHQPOLO ul li{
+	color: white;
+}
+.moreLinkHQPOLO div {
+    display: flex;
+    justify-content: space-around;
+}
+.logoLink{
+	height:36px;
+	width: 32px;
+	background-size: contain;
+    background-repeat: no-repeat;
+    color: white;
+}
+.linkTikTok{
+	background-image: url("http://localhost:3000/images/logo-tiktok-ep.svg");
+}
+.linkFacebook{
+	background-image: url("http://localhost:3000/images/logo-facebook-ep.svg");
+}
+.linkYoutube{
+	background-image: url("http://localhost:3000/images/logo-youtube-ep.svg");
+}
+.linkInstagram{
+	background-image: url("http://localhost:3000/images/logo-instagram-ep.svg");
+}
+.certifycateHQPOLO{
+	background-image: url("http://localhost:3000/images/certifycateHQPOLO.png");
+	width: 202px;
+	background-size: contain;
+    background-repeat: no-repeat;
+    height: 76px;
+}
+.elementEndPage{
+	background-color: #001b4a;
+    color: rgba(255,255,255,0.5);
+    text-align: center;
+}
